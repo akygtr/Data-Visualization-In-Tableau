@@ -87,3 +87,57 @@ To analyze how significant AI developments have affected the financial performan
 - **Next Steps**: Monitor upcoming AI developments and align investment strategies accordingly.
 
 ---
+
+## Dashboard 2: Tech Hub Contributions to GDP Growth
+
+<img width="1000" height="800" alt="Question 2 Dashboard" src="https://github.com/user-attachments/assets/af0e8962-08ba-42ba-806e-438aa009ab2f" />
+
+
+### Objective
+To quantify the economic impact of tech hubs on North America's GDP over the past decade.
+
+### Key Components
+
+#### 1. **Country-Level GDP Contributions**
+- Canada: \$2.14 trillion
+- United States: \$27.4 trillion
+- Insight: Highlights the U.S.'s dominant role in tech-driven GDP growth.
+
+#### 2. **State-Level Tech Hub Contributions**
+- California: \$3.49 trillion
+- Washington: \$2.32 trillion
+- Insight: Emphasizes the economic power of Silicon Valley and Seattle.
+
+#### 3. **GDP Trends (2014–2023)**
+- Visualization: Line graph with max, min, and average GDP
+- Insight: Tracks economic fluctuations and growth patterns over time.
+
+---
+
+## Strategic Insights
+
+- **AI innovation is a key driver of stock market performance**, with clear correlations between major AI events and trading volume spikes.
+- **California and Washington are central to North America's tech economy**, contributing significantly to GDP through high-value tech ecosystems.
+- **Forecasting models based on AI events** can help investors and analysts anticipate market movements.
+- **GDP trends reflect resilience and growth**, especially in regions with strong tech infrastructure.
+
+---
+
+## Use Cases
+
+- **Investor Briefings**: Understand how AI influences stock behavior.
+- **Economic Planning**: Identify high-impact tech regions for policy or investment.
+- **Corporate Strategy**: Align product launches with market trends.
+- **Academic Research**: Study the intersection of AI and macroeconomics.
+
+---
+
+## Contact & Attribution
+
+Prepared by:  
+**Akshara Kumari**  
+Product Analyst  
+[LinkedIn](www.linkedin.com/in/akshara-kumari)
+
+---
+
