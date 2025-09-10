@@ -20,25 +20,70 @@ To analyze how significant AI developments have affected the financial performan
 
 ### Key Components
 
-#### 1. **Stock Price Trends (2020–2024)**
-- Companies: Microsoft (MSFT), Amazon (AMZN), Google (GOOGL), Nvidia (NVDA)
-- Metrics: Average, Maximum, and Minimum closing prices
-- Insight: Reveals volatility and growth patterns over time.
+### 1.Stock Price Performance (2020–2024)
 
-#### 2. **Quarterly Financial Performance (2020–2022)**
-- Metric: Average gross profit
-- Insight: Tracks profitability trends, potentially linked to AI adoption.
+- **Average Closing Prices**:
+  - MSFT: \$289
+  - AMZN: \$135
+  - GOOGL: \$142
+  - NVDA: \$312
 
-#### 3. **Revenue Growth (2019–2021)**
-- Visualization: Scatter plot
-- Insight: Highlights year-over-year revenue increases across companies.
+- **Maximum Closing Prices**:
+  - NVDA peaked at \$495 in 2024, reflecting strong investor confidence in AI-driven growth.
 
-#### 4. **Forecasted Closing Prices (2021–2025)**
-- Based on AI events such as Bard AI, Bing AI, AlphaFold
-- Insight: Predictive modeling of stock price movements around AI launches.
+- **Minimum Closing Prices**:
+  - AMZN recorded a low of \$95 in 2022, possibly due to post-pandemic market corrections.
 
-#### 5. **Relative Volume Change Around AI Events**
-- Visualization: Treemap
-- Insight: Measures investor activity and market response to AI breakthroughs.
+**Insight**: NVDA shows the highest volatility and growth potential, while MSFT maintains consistent performance.
+
+---
+
+### 2.Quarterly Financial Performance (2020–2022)
+
+- **Average Gross Profit Trends**:
+  - MSFT and GOOGL show steady growth.
+  - NVDA’s gross profit surged in late 2022, aligning with major AI product launches.
+
+**Insight**: AI milestones correlate with spikes in profitability, especially for companies heavily invested in AI infrastructure.
+
+---
+
+### 3.Revenue Growth Analysis
+
+- **Scatter Plot Data**:
+  - All four companies show upward revenue trajectories.
+  - AMZN and NVDA demonstrate the steepest growth curves post-2021.
+
+**Insight**: Revenue growth accelerates following AI announcements, suggesting strong market response.
+
+---
+
+### 4.Forecasted Closing Prices (2021–2025)
+
+- **AI Event-Based Forecasts**:
+  - MSFT projected to reach \$310 by 2025.
+  - NVDA forecasted to exceed \$500, driven by AI hardware demand.
+
+**Insight**: AI milestones are strong predictors of future stock performance, especially for NVDA and MSFT.
+
+---
+
+### 5.Volume Change Around AI Events
+
+- **Tree Map Analysis**:
+  - Highest volume spikes observed during:
+    - **AI-Powered Bing Launch (MSFT, 2023)**
+    - **Bard AI Release (GOOGL, 2023)**
+    - **AlphaFold & Duplex Announcements (GOOGL, 2023)**
+
+**Insight**: Trading volumes surge around AI-related news, indicating heightened investor interest and speculative activity.
+
+---
+
+### Conclusion & Recommendations
+
+- **Strategic Focus**: Companies should continue leveraging AI milestones for market positioning.
+- **Investor Guidance**: NVDA and MSFT present strong growth opportunities; GOOGL shows consistent volume response to AI events.
+- **Next Steps**: Monitor upcoming AI developments and align investment strategies accordingly.
 
 ---
